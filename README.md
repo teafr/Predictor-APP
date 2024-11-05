@@ -12,3 +12,6 @@ Also I added SetUp project, so some of my friends have already tried my app on t
 ### Where you can find it
 Project is located in the branch "Predictor_app". 
 In the folder "Predictor" you'll find "work with forms" which contains main part of my project.
+
+### How it looks like
+![Predictor Aplication](./Resources/Predictor Video.gif)
