@@ -8,12 +8,8 @@ If you leave TextField empty, you'll get a MessageBox which will tell you to fil
 ### What for?
 You can use it when you can't decide what to do or you simply want to predict your future for fun. 
 
-### How it looks like
+### How it looks like:
 ![Predictor Aplication](./Resources/PredictorVideo.gif)
-
-### Where you can find it
-Project is located in the branch "Predictor_app". 
-In the folder "Predictor" you'll find "work with forms" which contains main part of my project.
 
 ### Tecnical info
 This Windows Forms Application contains JSON file, which has all kinds of predictions.
